@@ -14,7 +14,6 @@ This is used in the demonstration of the development of Ansible Playbooks.
   Python and its dependencies
   ```bash
   apt update && apt-get install -y python3 python3-pip python3-setuptools python3-dev build-essential default-libmysqlclient-dev
-  apt-get install -y python3-pip
   ```
 ## 2. Install, Create and Activate Virtual Environment
 ```bash
